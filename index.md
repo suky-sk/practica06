@@ -1,5 +1,6 @@
 ---
 title: Modulos
+description: Una breve descripción de los módulos
 layout: home
 ---
 
