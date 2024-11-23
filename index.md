@@ -1,5 +1,6 @@
 ---
 title: Modulos
+title: yo
 layout: home
 ---
 
