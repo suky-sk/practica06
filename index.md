@@ -1,6 +1,6 @@
 ---
 title: Modulos
-layout: default
+layout: Modulos
 nav_order: 1
 parent: Home
 ---
