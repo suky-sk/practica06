@@ -13,5 +13,5 @@ just_the_docs:
     - title: "Módulos"
       url: /modulos/
       children:
-        - title: "Una breve descripción de los módulos"
+        - title: "DAW"
           url: /modulos/descripcion/
