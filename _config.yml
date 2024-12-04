@@ -8,14 +8,7 @@ url: https://just-the-docs.github.io
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
-# Configuración de la navegación en la barra lateral
-just_the_docs:
-  navigation:
-    - title: "Módulos"
-      url: /modulos/
-      children:
-        - title: "DAW"
-          url: /modulos/descripcion/
+
 # _config.yml
 nav:
   - title: "1.Home"
