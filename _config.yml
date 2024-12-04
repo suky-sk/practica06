@@ -16,3 +16,9 @@ just_the_docs:
       children:
         - title: "DAW"
           url: /modulos/descripcion/
+
+nav:
+  - title: "1.Home"
+    path: index.md
+  - title: "2. Programación"
+    path: Programación.md
