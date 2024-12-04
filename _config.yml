@@ -16,7 +16,7 @@ just_the_docs:
       children:
         - title: "DAW"
           url: /modulos/descripcion/
-
+# _config.yml
 nav:
   - title: "1.Home"
     path: index.md
