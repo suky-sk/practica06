@@ -14,3 +14,5 @@ aux_links:
 nav:
   - title: "1.Home"
     path: index.md
+   - title: "2. Programación"
+    path: Programación.md
