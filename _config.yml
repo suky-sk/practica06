@@ -11,7 +11,15 @@ aux_links:
 
 # _config.yml
 nav:
-  - title: "1.Home"
+  - title: "1. Home"
     path: index.md
-   - title: "2. Programación"
+  - title: "2. Programación"
     path: Programación.md
+  - title: "3. Lenguaje de marca"
+    path: LM.md
+  - title: "4. Sistemas Informáticos"
+    path: Sistemas.md
+  - title: "5. Inglés"
+    path: Inglés.md
+  - title: "6. Base de dades"
+    path: Bd.md
